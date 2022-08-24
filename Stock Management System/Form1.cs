@@ -197,7 +197,7 @@ namespace Stock_Management_System
             }
             else
             {
-                MessageBox.Show("Record Not Found");
+                MessageBox.Show("There is no Record Found");
             }
 
 
